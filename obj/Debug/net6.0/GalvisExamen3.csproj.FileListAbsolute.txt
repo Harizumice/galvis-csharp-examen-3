@@ -1,0 +1,14 @@
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\bin\Debug\net6.0\GalvisExamen3.exe
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\bin\Debug\net6.0\GalvisExamen3.deps.json
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\bin\Debug\net6.0\GalvisExamen3.runtimeconfig.json
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\bin\Debug\net6.0\GalvisExamen3.dll
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\bin\Debug\net6.0\GalvisExamen3.pdb
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\GalvisExamen3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\GalvisExamen3.AssemblyInfoInputs.cache
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\GalvisExamen3.AssemblyInfo.cs
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\GalvisExamen3.csproj.CoreCompileInputs.cache
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\GalvisExamen3.dll
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\refint\GalvisExamen3.dll
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\GalvisExamen3.pdb
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\GalvisExamen3.genruntimeconfig.cache
+C:\Users\Harizumice\source\repos\GalvisExamen3\GalvisExamen3\obj\Debug\net6.0\ref\GalvisExamen3.dll
